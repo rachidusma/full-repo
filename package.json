@@ -14,7 +14,7 @@
   "author": "ericli",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.672.0",
+    "aws-sdk": "^2.814.0",
     "bcryptjs": "^2.4.3",
     "concurrently": "^3.6.0",
     "config": "^3.0.1",
